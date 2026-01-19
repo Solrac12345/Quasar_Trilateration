@@ -54,7 +54,6 @@ Carlos — Mechatronics Engineer transitioning into AI development.
 Focused on Python, FastAPI, automation, and intelligent systems.
 
 If you want, I can also generate:
-- A French version
 - A version with badges (Python, FastAPI, License)
 - A version with diagrams
 - A version tailored for recruiters
